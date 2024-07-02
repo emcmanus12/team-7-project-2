@@ -33,7 +33,3 @@ This document outlines the feature engineering process undertaken to enhance the
 
 ## Conclusion
 
-The addition of these features aims to improve the accuracy of our real estate model. It will be interesting to analyze how these enhancements impact the model's performance. The code for these features is attached and also available in my branch.
-
-Thank you,  
-[Your Name]
