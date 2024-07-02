@@ -1,6 +1,6 @@
 # team-7-project-2
 # INNOVATIVE FEATURE ENGINEERING IN SEATTLE REAL ESTATE
-    <img src="https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1194i215%2Fyxttbmab8sbbmt6hve3xsgzyh2i215&option=N&h=472&permitphotoenlargement=fals">
+    <"https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1194i215%2Fyxttbmab8sbbmt6hve3xsgzyh2i215&option=N&h=472&permitphotoenlargement=fals">
 ## Overview
 
 This document outlines the feature engineering process undertaken to enhance the predictive power of our real estate model. The focus has been on incorporating additional features beyond the traditional physical attributes typically considered when purchasing a house.
