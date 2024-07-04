@@ -6,7 +6,7 @@ Welcome to our comprehensive study and analysis of real estate data, designed to
 # Objective
 The primary objective of this project is to display advanced data analysis and advance data cleaning techniques for machine learning models to extract predictive insights from real estate data. By doing so, we aim to empower all people with the tools and techniques necessary to make data-driven decisions to optimize investments, and enhance overall real estate strategies.
 
-# Feature Engineering Data to Optimize ML Predictions for Real Estate Data
+# Feature Engineering Data to Optimize ML Predictions from Real Estate Data
 
 1. Data Loading and Cleaning: Importing real estate datasets and performing thorough data cleaning to ensure accuracy and reliability.
 2. Feature Engineering: Creating and optimizing features such as living_to_lot_ratio to enhance model performance and provide deeper insights.
