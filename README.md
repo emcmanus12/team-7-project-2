@@ -1,10 +1,10 @@
 ## Real Estate Data Analysis and AI Enhancement ##
 
 # Overview
-Welcome to our comprehensive study and analysis of real estate data, designed to inspire innovative AI enhancements for people of all levels. This project underscores the pivotal role that data analysis and artificial intelligence can play in the success of real estate ventures. This project aims to provide valuable insights, tools and analysis to help you succeed in the real estate market.
+Welcome to our comprehensive study and analysis of real estate data, designed to inspire innovative AI enhancements for people of all levels. This project underscores the pivotal role that data analysis and artificial intelligence will play in the success of real estate ventures. This project provides valuable insights, tools and analysis to help you succeed in the real estate market.
 
 # Objective
-The primary objective of this project is to display advanced data analysis techniques and machine learning models to extract actionable insights from real estate data. By doing so, we aim to empower all people with the tools and techniques necessary to make data-driven decisions to optimize investments, and enhance overall real estate strategies.
+The primary objective of this project is to display advanced data analysis and advance data cleaning techniques for machine learning models to extract predictive insights from real estate data. By doing so, we aim to empower all people with the tools and techniques necessary to make data-driven decisions to optimize investments, and enhance overall real estate strategies.
 
 # Feature Engineering Data to Optimize ML Predictions for Real Estate Data
 
