@@ -21,14 +21,14 @@ The primary objective of this project is to display advanced data analysis and a
 
 ****Benefits****  
 
-1. Informed Decision-Making: Utilize data-driven insights to make informed decisions, reducing risks and maximizing returns on investments.
+1. Informed Decision-Making: Utilize AI data-exploration techniquest to get insights for Real estate decisions, reducing risks and maximizing returns on investments.
 2. Enhanced Strategies: Develop and refine real estate strategies based on comprehensive data analysis and predictive modeling.
 3. Innovative AI Solutions: Explore and implement innovative AI enhancements to stay ahead in the competitive real estate market.
 4. Wide Applicability: Whether you are involved in commercial real estate, residential properties, or family investments, this project provides 
    valuable tools and knowledge applicable to all.
 
 # Conclusion
-This project is a testament to the power of data and AI in transforming the real estate industry. By harnessing the insights and tools provided here, entrepreneurs, investors, and families can make smarter decisions and achieve greater success in their real estate endeavors. We hope this project inspires you to explore the endless possibilities that data analysis and AI offer for the future of real estate.
+This project is a testament to the power of data and AI in transforming the real estate industry. By harnessing the insights and tools provided here, entrepreneurs, investors, and families can make smarter decisions and achieve greater success in their real estate endeavors. We hope this project inspires you to explore the endless possibilities that data analysis and AI offer for the future of real estate. **120 min Run Time Estimate 
 
 
 
