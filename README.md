@@ -19,7 +19,7 @@ The primary objective of this project is to display advanced data analysis and a
    different features.
 8. Visualization: Creating visual representations of data and model results to facilitate better understanding and communication of insights.
 
-****Benefits****  
+* Benefits
 
 1. Informed Decision-Making: Utilize AI data-exploration techniquest to get insights for Real estate decisions, reducing risks and maximizing returns on investments.
 2. Enhanced Strategies: Develop and refine real estate strategies based on comprehensive data analysis and predictive modeling.
