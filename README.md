@@ -1,8 +1,47 @@
 # INNOVATIVE FEATURE ENGINEERING IN SEATTLE REAL ESTATE
 
-## Code Setup
+## Dataset
 
-- pip imports necessary for a user's conda environment have been included but commented out.
+Dataset
+
+The dataset used in this analysis is the “kc_house_data.csv” file, which contains the following columns:
+
+	•	id
+	•	date
+	•	price
+	•	bedrooms
+	•	bathrooms
+	•	sqft_living
+	•	sqft_lot
+	•	floors
+	•	waterfront
+	•	view
+	•	condition
+	•	grade
+	•	sqft_above
+	•	sqft_basement
+	•	yr_built
+	•	yr_renovated
+	•	zipcode
+	•	lat
+	•	long
+	•	sqft_living15
+	•	sqft_lot15
+
+## Dependencies
+
+The following Python libraries are required to run the notebook:
+
+	•	pandas
+	•	numpy
+	•	requests
+	•	scikit-learn
+	•	matplotlib
+	•	seaborn
+	•	statsmodels
+	•	folium
+ 
+- pip install pandas numpy requests scikit-learn matplotlib seaborn statsmodels folium
 - The setup ensures that no additional encoding is required.
 
 ## Overview
