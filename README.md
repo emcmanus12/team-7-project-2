@@ -35,7 +35,7 @@ The dataset used in this analysis is the “kc_house_data.csv” file, which con
 
 ## Dependencies
 
-	•	Required libraries:
+	Required libraries:
 	•	pandas
 	•	numpy
 	•	requests
