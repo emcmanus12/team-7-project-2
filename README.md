@@ -1,5 +1,10 @@
 # INNOVATIVE FEATURE ENGINEERING IN SEATTLE REAL ESTATE
 
+# Real Estate ML Data Analysis Overview
+
+This project focuses on analyzing and predicting real estate prices using machine learning techniques. The data analysis and modeling are conducted using Python and various machine learning libraries.
+
+
 ## Dataset
 
 Dataset
@@ -32,21 +37,27 @@ The dataset used in this analysis is the “kc_house_data.csv” file, which con
 
 The following Python libraries are required to run the notebook:
 
-	•	pandas
-	•	numpy
-	•	requests
-	•	scikit-learn
-	•	matplotlib
-	•	seaborn
-	•	statsmodels
-	•	folium
- 
+import pandas as pd
+from datetime import datetime
+import numpy as np
+import requests
+from sklearn.model_selection import train_test_split, GridSearchCV, KFold
+from sklearn.preprocessing import PolynomialFeatures, StandardScaler, OneHotEncoder, PowerTransformer
+from sklearn.compose import ColumnTransformer
+from sklearn.svm import SVR
+from sklearn.impute import SimpleImputer
+from sklearn.ensemble import GradientBoostingRegressor, RandomForestRegressor
+from sklearn.neighbors import KNeighborsRegressor
+import matplotlib.pyplot as plt
+import seaborn as sns
+from statsmodels.stats.outliers_influence import variance_inflation_factor
+import folium
+from math import radians, sin, cos, sqrt, atan2
+from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.linear_model import Lasso, Ridge, Li
+
 - pip install pandas numpy requests scikit-learn matplotlib seaborn statsmodels folium
-- The setup ensures that no additional encoding is required.
-
-## Overview
-
-This document outlines the feature engineering process undertaken to enhance the predictive power of our real estate model. The focus has been on incorporating additional features beyond the traditional physical attributes typically considered when purchasing a house.
 
 # Objective
 The primary objective of this project is to display advanced data analysis and advance data cleaning techniques for machine learning models to extract predictive features from real estate data. By doing so, we aim to provide techniques and tools necessary to make data-driven decisions to optimize investments, and real estate strategies.
