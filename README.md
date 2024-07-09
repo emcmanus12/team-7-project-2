@@ -35,29 +35,18 @@ The dataset used in this analysis is the “kc_house_data.csv” file, which con
 
 ## Dependencies
 
-The following Python libraries are required to run the notebook:
+	•	Required libraries:
+	•	pandas
+	•	numpy
+	•	requests
+	•	scikit-learn
+	•	matplotlib
+	•	seaborn
+	•	statsmodels
+	•	folium
 
-import pandas as pd
-from datetime import datetime
-import numpy as np
-import requests
-from sklearn.model_selection import train_test_split, GridSearchCV, KFold
-from sklearn.preprocessing import PolynomialFeatures, StandardScaler, OneHotEncoder, PowerTransformer
-from sklearn.compose import ColumnTransformer
-from sklearn.svm import SVR
-from sklearn.impute import SimpleImputer
-from sklearn.ensemble import GradientBoostingRegressor, RandomForestRegressor
-from sklearn.neighbors import KNeighborsRegressor
-import matplotlib.pyplot as plt
-import seaborn as sns
-from statsmodels.stats.outliers_influence import variance_inflation_factor
-import folium
-from math import radians, sin, cos, sqrt, atan2
-from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.linear_model import Lasso, Ridge, Li
-
-- pip install pandas numpy requests scikit-learn matplotlib seaborn statsmodels folium
+ Installation command:
+ 	pip install pandas numpy requests scikit-learn matplotlib seaborn statsmodels folium
 
 # Objective
 The primary objective of this project is to display advanced data analysis and advance data cleaning techniques for machine learning models to extract predictive features from real estate data. By doing so, we aim to provide techniques and tools necessary to make data-driven decisions to optimize investments, and real estate strategies.
